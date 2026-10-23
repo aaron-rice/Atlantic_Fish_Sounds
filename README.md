@@ -1,7 +1,7 @@
 # A Reference Database of US Atlantic Fish Sounds
 from Rice & Kapfer 2026
 
-| **Eschmeyer Family Sequence** | **Family**      | **Sonic Atlantic Species**          | **Link to Collection**                                                                                                                                |
+| **Eschmeyer Family Sequence** | **Family**      | **Sonic Atlantic Species**          | **Link to Sounds and Collection**                                                                                                                                |
 |-------------------------------|-----------------|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 77                            | Acipenseridae   | *Acipenser oxyrhinchus*             | [Publication](https://doi.org/10.3354/esr01429)                                                                                                       |
 | 82                            | Megalopidae     | *Megalops atlanticus*               | [Macaulay Library](https://search.macaulaylibrary.org/catalog?taxonCode=t-10921101&mediaType=audio)                                                   |
